@@ -1,0 +1,4 @@
+#Wed Dec 13 18:04:42 IST 2017
+base.0=E\:\\Xampr_ReactNative\\myApp\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Xampr_ReactNative\\myApp\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
